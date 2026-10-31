@@ -1,7 +1,0 @@
-[package]
-name='azimuth_build_probe'
-version='0.1.0'
-edition='2021'
-[[bin]]
-name='azimuth_build_probe'
-path='src/main.rs'
